@@ -6,6 +6,7 @@ Example of a backend for an e-commerce site. This project uses Express.js, Seque
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [License](#license)
+4. [Video Walkthrough Links](#videowalkthroughlinks)
 
 ## Installation
 After cloning the repository, a ".env" file must be created containing mySQL credentials. A practice database must then be created using the "schema.sql" file in this project. This database must then be seeded using the sample seeds in this project. The server can then be started using the "npm run start" command.
